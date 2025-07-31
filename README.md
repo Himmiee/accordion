@@ -7,7 +7,7 @@ This project was developed as part of a frontend technical assessment.
 
 - Mobile-first, responsive layout
 - Dark mode support using Tailwind
-- Smooth CSS-based transitions (no external animation libraries)
+- Smooth CSS-based transitions 
 - Clean folder structure
 
 ## 📁 Folder Structure
