@@ -53,5 +53,8 @@ npm run dev
 Deployment via:
 - GitHub Pages
 
+**Live Demo:** [https://himmiee.github.io/accordion/](https://himmiee.github.io/accordion/)
+
+
 
 
