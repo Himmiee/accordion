@@ -15,8 +15,6 @@ This project was developed as part of a frontend technical assessment.
 ```
 src/
 - App.tsx
-- assets/
-  - react.svg
 - components/
   - Accordion/
     - Accordion.tsx
